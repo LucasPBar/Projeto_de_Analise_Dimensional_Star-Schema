@@ -1,4 +1,4 @@
-<h1 align="center">🎓 Data Warehouse — Análise de Professores</h1>
+<h1 align="center">🎓 Star Schema — Análise de Professores</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square" />
